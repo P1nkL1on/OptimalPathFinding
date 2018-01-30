@@ -1,0 +1,14 @@
+C:\Users\lion6_000\source\repos\OptimalPathFinding\OptimalPathFinding\obj\Debug\OptimalPathFinding.csprojResolveAssemblyReference.cache
+C:\Users\lion6_000\source\repos\OptimalPathFinding\OptimalPathFinding\obj\Debug\OptimalPathFinding.csproj.CoreCompileInputs.cache
+C:\Users\lion6_000\source\repos\OptimalPathFinding\OptimalPathFinding\bin\Debug\OptimalPathFinding.exe.config
+C:\Users\lion6_000\source\repos\OptimalPathFinding\OptimalPathFinding\bin\Debug\OptimalPathFinding.exe
+C:\Users\lion6_000\source\repos\OptimalPathFinding\OptimalPathFinding\bin\Debug\OptimalPathFinding.pdb
+C:\Users\lion6_000\source\repos\OptimalPathFinding\OptimalPathFinding\obj\Debug\OptimalPathFinding.exe
+C:\Users\lion6_000\source\repos\OptimalPathFinding\OptimalPathFinding\obj\Debug\OptimalPathFinding.pdb
+D:\OptimalPathFinding\OptimalPathFinding\bin\Debug\OptimalPathFinding.exe.config
+D:\OptimalPathFinding\OptimalPathFinding\bin\Debug\OptimalPathFinding.exe
+D:\OptimalPathFinding\OptimalPathFinding\bin\Debug\OptimalPathFinding.pdb
+D:\OptimalPathFinding\OptimalPathFinding\obj\Debug\OptimalPathFinding.csprojResolveAssemblyReference.cache
+D:\OptimalPathFinding\OptimalPathFinding\obj\Debug\OptimalPathFinding.csproj.CoreCompileInputs.cache
+D:\OptimalPathFinding\OptimalPathFinding\obj\Debug\OptimalPathFinding.exe
+D:\OptimalPathFinding\OptimalPathFinding\obj\Debug\OptimalPathFinding.pdb
